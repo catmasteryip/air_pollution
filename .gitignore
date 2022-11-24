@@ -1,1 +1,6 @@
-!/outputs
+*
+!.gitignore
+!README.md
+!dcca_2003.ipynb
+!land_use_2.ipynb
+!prev.ipynb
